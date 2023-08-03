@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -m +x .
+chmod -r +x .
